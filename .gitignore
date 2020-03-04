@@ -1,0 +1,3 @@
+# Ignorando todas las imagenes en la carpeta PLOT
+*.jpg
+*.png
